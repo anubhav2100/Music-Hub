@@ -127,7 +127,7 @@ for (let i = 0; i < heart.length; i++) {
         }
         else
         {
-            console.log("Nayan");
+            console.log("Anubhav");
             heart[i].setAttribute("src","icons8-heart-with-arrow-50.png")
             songs[i].isliked = false;
         }
